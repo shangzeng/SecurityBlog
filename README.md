@@ -2,7 +2,7 @@
 # Security Blog
 # 用于存储互联网常见网络安全相关技术博客，用于SSR记录和学习
 
-* SSR订阅
+* SSR订阅，主要是一些我关注的安全博客
 * 每隔一个月会探测博客存货并进行筛检
 * 欢迎师傅推荐Blog，补充内容 微信 **shangzeng_club**
 
@@ -80,3 +80,22 @@ https://x.hacking8.com/ 安全开发 代码审计
 https://www.cnblogs.com/luoyesiqiu/ 逆向 
 颖奇 https://www.gem-love.com/  CTF
 ```
+
+## Blog 来源 && 更新计划
+
+1. [Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)
+2. [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS)
+
+------
+
+* **20220121** :  新建内容
+
+
+
+
+
+
+
+
+
+
