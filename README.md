@@ -16,16 +16,20 @@
 
 # 安全论坛
 
-```
-https://infosecwriteups.com/ 
-https://tttang.com/  				
-https://www.social-engineer.org/  	
-https://paper.seebug.org
-https://sec-in.com/
-https://bbs.pediy.com/
-https://forum.butian.net/
-https://xz.aliyun.com/			
-```
+
+
+| 名称 | 网站 | 简介 |
+| ------ | ------ | ------ |
+| 跳跳糖 | https://tttang.com/   | 安全相关文章 |
+| InfoSec | https://infosecwriteups.com/   | 黑客的精彩文章集合 |
+| ocial-engineer | https://www.social-engineer.org/     | 社工相关资料 |
+| seebug | https://paper.seebug.org   | 安全相关文章 |
+| sec-in | https://sec-in.com/  | 安全相关文章 |
+| 看雪论坛 | https://bbs.pediy.com/  | 二进制相关 |
+| 补天安全论坛 | https://forum.butian.net/  | 安全相关文章 |
+| 阿里云先知 | https://xz.aliyun.com/  | 安全相关文章 |
+
+
 
 # 安全技术博客
 
@@ -79,6 +83,14 @@ https://foxgrin.github.io/ CTF
 https://x.hacking8.com/ 安全开发 代码审计
 https://www.cnblogs.com/luoyesiqiu/ 逆向 
 颖奇 https://www.gem-love.com/  CTF
+https://ashiq.co.za/ CTF
+http://whip1ash.cn/ 红队
+zerokeeper https://zerokeeper.com/ 漏洞分析
+Artem Kondratenko https://artkond.com/ 红队 漏洞复现
+EK https://jivoi.github.io/ 红队
+lego https://legoc.github.io/ 漏洞挖掘 CTF
+https://wonderkun.cc/ 红队
+https://blog.miki.it/ 漏洞挖掘
 ```
 
 ## Blog 来源 && 更新计划
@@ -89,7 +101,7 @@ https://www.cnblogs.com/luoyesiqiu/ 逆向
 ------
 
 * **20220121** :  新建内容
-
+* **20220121** :  新增8条博客，整理格式
 
 
 

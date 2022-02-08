@@ -4,6 +4,15 @@
     <title>Feeds of 1773231781 from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
+    <outline text="Michele Spagnuolo" title="Michele Spagnuolo" type="rss" xmlUrl="https://blog.miki.it/index.xml" htmlUrl="https://blog.miki.it/"/>
+    <outline text="wonderkun's | blog" title="wonderkun's | blog" type="rss" xmlUrl="https://wonderkun.cc/atom.xml" htmlUrl="http://blog.wonderkun.cc/"/>
+    <outline text="Mugen" title="Mugen" type="rss" xmlUrl="https://legoc.github.io/atom.xml" htmlUrl="https://legoc.github.io/"/>
+    <outline text="EK" title="EK" type="rss" xmlUrl="https://jivoi.github.io/feed.xml" htmlUrl="https://jivoi.github.io"/>
+    <outline text="#!/bin/bash" title="#!/bin/bash" type="rss" xmlUrl="https://artkond.com/feed.xml" htmlUrl="https://artkond.com/"/>
+    <outline text="ZeroKeeper" title="ZeroKeeper" type="rss" xmlUrl="https://zerokeeper.com/atom.xml" htmlUrl="http://zerokeeper.github.io/"/>
+    <outline text="Whip1ash" title="Whip1ash" type="rss" xmlUrl="http://whip1ash.cn/atom.xml" htmlUrl="https://whip1ash.cn/"/>
+    <outline text="Ashiq's blog" title="Ashiq's blog" type="rss" xmlUrl="https://ashiq.co.za/feed.xml" htmlUrl="https://ashiq.co.za/"/>
+    <outline text="美团技术团队" title="美团技术团队" type="rss" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
     <outline text="颖奇L'Amore - WEB SECURITY RESEARCHER" title="颖奇L'Amore - WEB SECURITY RESEARCHER" type="rss" xmlUrl="https://www.gem-love.com/atom.xml" htmlUrl="https://www.gem-love.com/"/>
     <outline text="小草窝博客" title="小草窝博客" type="rss" xmlUrl="https://x.hacking8.com/rss.php" htmlUrl="https://x.hacking8.com/"/>
     <outline text="风雪之隅" title="风雪之隅" type="rss" xmlUrl="https://www.laruence.com/feed" htmlUrl="https://www.laruence.com/"/>
