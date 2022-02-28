@@ -28,10 +28,13 @@
 | 看雪论坛 | https://bbs.pediy.com/  | 二进制相关 |
 | 补天安全论坛 | https://forum.butian.net/  | 安全相关文章 |
 | 阿里云先知 | https://xz.aliyun.com/  | 安全相关文章 |
+| 盘古取证实验室 |https://www.pangulab.cn/ | 电子取证 |
 
 
 
 # 安全技术博客
+
+下面写的只统计了`.xml` 中的一部分内容，只多不少：
 
 ```
 zgao https://zgao.top/archives  应急相应
@@ -91,17 +94,24 @@ EK https://jivoi.github.io/ 红队
 lego https://legoc.github.io/ 漏洞挖掘 CTF
 https://wonderkun.cc/ 红队
 https://blog.miki.it/ 漏洞挖掘
+https://longlone.top/ Java学习
+https://surager.pub/ CTF
+https://xdym11235.com/ 漏洞复现
+https://jev0n.com/ 二进制 
+https://lcx.cc/   社工 二进制
 ```
 
 ## Blog 来源 && 更新计划
 
 1. [Security-Data-Analysis-and-Visualization](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)
 2. [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS)
+3. [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 
 ------
 
-* **20220121** :  新建内容
-* **20220121** :  新增8条博客，整理格式
+* **20211201** :  新建内容格式
+* **20220131** :  新增8条博客，整理格式
+* **20220228** :  新增5条博客，一个论坛 ，整理格式
 
 
 
