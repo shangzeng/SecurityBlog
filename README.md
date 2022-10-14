@@ -3,7 +3,7 @@
 # 用于存储互联网常见网络安全相关技术博客，用于SSR记录和学习
 
 * SSR订阅，主要是一些我关注的安全博客
-* 每隔一个月会探测博客存活并进行筛检
+* 每隔一个月会探测博客存活并进行筛检（中间鸽了一段时间，抱歉）
 * 欢迎师傅推荐Blog，补充内容 微信 **shangzeng_club**
 
 
@@ -31,80 +31,47 @@
 | 盘古取证实验室 |https://www.pangulab.cn/ | 电子取证 |
 
 
+# 知识星球
+
+推荐一些我觉得值得购买的知识星球和一些个人的主观评价，有什么比较好的也十分欢迎进行推荐给我 ，微信 **shangzeng_club**
+
+
+| 名称 | 机制 |推荐指数 | 简介 |
+| ------ | ------ | ------ | ------ |
+| 代码审计 | 买断  | 10  | 代码审计为主，买断制，目前是我加过最值得的一个 |
+| 赛博回忆录 | 年付  |  7 | 知识面较为分散，能够跟进最新动态  |
+| Hacking自动化就是好玩 | 年付  |  6 |  主要是go开发为主的安全，专业性较强 |
+| CTFWP@Nu1l | 免费  |  6 | WP解析，由于不咋打了很少看了 |
+| r3kapig TEAM | 免费  |  6 | r3kapig队伍的官方星球，由于不咋打了很少看了 |
+| API Security | 免费  |  6 | 专注API安全，更新频率较低 |
+
+
+# 微信公众号
+
+一些还可以的微信公众号，但是由于安全行业的特殊性和公众号的变现问题，因此质量极其不稳定，需要注意，有什么比较好的也十分欢迎进行推荐给我 ，微信 **shangzeng_club**
+
+| 名称 | 类型 |简介 | 
+| ------ | ------ | ------ | 
+| 无 | 无  | 无  | 
+
+
+
+
+
+
 
 # 安全技术博客
 
-下面写的只统计了`.xml` 中的一部分内容，只多不少：
+我使用**Inoreader**进行SSR博客的订阅 ， 但是仍有一些师傅的博客不支持SSR订阅的方式，因此在此列出 ：
 
-```
-zgao https://zgao.top/archives  应急相应
-Study  https://telcruel.gitee.io/   CTF 杂项
-tr0jan https://tr0jan.top/      CTF  
-360核心安全技术博客 https://blogs.360.cn/   APT 
-AnonySec https://payloads.cn/   红队
-tianzheng http://blog.tianzheng.cool/ PWN
-夜雨聆风 https://www.yeyulingfeng.com/ 杂项 其他
-koalr https://koalr.me/  Goalng 蓝队
-Coocat https://blog.thekingofduck.com/ Java 代码审计 漏洞挖掘
-三好学生 https://3gstudent.github.io/  红队 
-ADog http://foreversong.cn/ 代码审计 漏洞分析
-print("") https://www.o2oxy.cn/ 代码审计 漏洞分析
-https://balis0ng.com/
-https://gh0st.cn/ 漏洞挖掘 
-https://tonghuaroot.com/ 云安全  漏洞挖掘
-madcoding https://www.mad-coding.cn/ CTF 
-http://k8gege.org/ 安全开发 红队
-https://www.mi1k7ea.com/ 代码审计 
-Tr3jer_CongRong https://www.thinkings.org/ 漏洞挖掘
-https://lucifaer.com/ 代码审计
-回忆飘如雪 https://gv7.me/ 代码审计
-Sky https://www.03sec.com/ 代码审计 漏洞复现
-Misaki https://misakikata.github.io/ 安全建设
-Evi1cg https://evi1cg.me/ 红队
-V0W https://v0w.top/ 代码审计
-https://www.xmsec.cc/ CTF
-https://5alt.me/ 漏洞挖掘
-https://www.pa55w0rd.online/ 安全建设
-https://blog.sari3l.com/ 漏洞挖掘
-李三的剑谱 http://redteam.today/ 代码审计 漏洞挖掘
-Jayl1n https://jayl1n.github.io/ CTF PWN
-evoa https://evoa.me/ CTF 代码审计
-https://iosmosis.github.io/ 逆向 二进制
-一叶飘零 https://skysec.top/ CTF 
-CodeMonster https://www.codemonster.cn/ CTF
-独自等待 https://www.waitalone.cn/ 杂项
-https://hpdoger.cn/ CTF 
-https://www.se7ensec.cn/ 红队
-Swing https://bestwing.me/ CTF 漏洞挖掘
-倾旋 https://payloads.online/ 红队
-https://hackfun.org/ CTF
-Li4n0 http://0n0.fun/ 漏洞分析 代码审计
-Panda https://blog.taielab.com/ 红队 漏洞挖掘
-https://www.laruence.com/ 代码审计
-https://landgrey.me/ 红队
-https://foxgrin.github.io/ CTF
-https://x.hacking8.com/ 安全开发 代码审计
-https://www.cnblogs.com/luoyesiqiu/ 逆向 
-颖奇 https://www.gem-love.com/  CTF
-https://ashiq.co.za/ CTF
-http://whip1ash.cn/ 红队
-zerokeeper https://zerokeeper.com/ 漏洞分析
-Artem Kondratenko https://artkond.com/ 红队 漏洞复现
-EK https://jivoi.github.io/ 红队
-lego https://legoc.github.io/ 漏洞挖掘 CTF
-https://wonderkun.cc/ 红队
-https://blog.miki.it/ 漏洞挖掘
-https://longlone.top/ Java学习
-https://surager.pub/ CTF
-https://xdym11235.com/ 漏洞复现
-https://jev0n.com/ 二进制 
-https://lcx.cc/   社工 二进制
-https://www.cnblogs.com/cwkiller 漏洞挖掘 代码审计
-https://www.cnblogs.com/J0o1ey/  漏洞挖掘
-https://lgf.im/  杂记
-https://shu1l.github.io/
-https://tyskill.github.io/
-```
+ 
+| 名称 | 网址 |类型 | 
+| ------ | ------ | ------ | 
+| 无 | 无  | 无  | 
+
+
+
+
 
 ## Blog 来源 && 更新计划
 
@@ -120,6 +87,7 @@ https://tyskill.github.io/
 - [x]  **20220331** :  新增5条博客。
 - [x]  **20220430** :  暂无新增
 - [x]  **20220531** :  暂无新增
+- [x]  **20221014** :  重新筛选SSR订阅 ，增加知识星球
 
 
 
